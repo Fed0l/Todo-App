@@ -18,3 +18,4 @@ export const query = async (sql, params) => {
     console.log("connection closed");
   }
 };
+ 
